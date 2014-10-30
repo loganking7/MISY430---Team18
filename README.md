@@ -1,4 +1,4 @@
-misy430---Team18
+MISY430---Team18
 ================
 
 MISY430 Group Project
